@@ -1,0 +1,74 @@
+body {
+	background-color: #E3FFF3;
+}
+
+ul {
+	list-style-type: none; 
+}
+
+a {
+    padding-top: 5px;
+}
+
+a:link {
+    color: #4A5928;
+}
+
+a:visited {
+    color: #4A5928;
+}
+
+a:hover {
+    color: #172601;
+}
+
+li {
+    height: 30px;
+}
+
+h1 {
+    color: 718C37;
+}
+
+h2 {
+	color: #568F84;
+}
+
+#left_col {
+    float: left;
+}
+
+#banner {
+    margin-left: 210px;
+    width: 600px;
+}
+
+#entry {
+    
+	background-color:#B8D197;
+	width: 580px;
+	margin-top: -5px;
+	margin-left: 210px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 50px;
+}
+
+#menu {
+	background-color: #9BDEc7;
+	width: 190px;
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+#wrapper {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menu_hedder {
+    font-size: 20px;
+	color: #901100;
+}
