@@ -1,5 +1,5 @@
 body {
-	background-color: #E3FFF3;
+	/*background-color: #E3FFF3;*/
 }
 
 ul {
@@ -11,15 +11,15 @@ a {
 }
 
 a:link {
-    color: #4A5928;
+    /*color: #4A5928;*/
 }
 
 a:visited {
-    color: #4A5928;
+   /* color: #4A5928;*/
 }
 
 a:hover {
-    color: #172601;
+    /*color: #172601;*/
 }
 
 li {
@@ -27,11 +27,11 @@ li {
 }
 
 h1 {
-    color: 718C37;
+    /*color: 718C37;*/
 }
 
 h2 {
-	color: #568F84;
+	/*color: #568F84;*/
 }
 
 #left_col {
@@ -45,7 +45,7 @@ h2 {
 
 #entry {
     
-	background-color:#B8D197;
+	/*background-color:#B8D197;*/
 	width: 580px;
 	margin-top: -5px;
 	margin-left: 210px;
@@ -55,7 +55,7 @@ h2 {
 }
 
 #menu {
-	background-color: #9BDEc7;
+	/*background-color: #9BDEc7;*/
 	width: 190px;
 	margin-top: 10px;
 	padding-top: 10px;
@@ -69,6 +69,6 @@ h2 {
 }
 
 .menu_hedder {
-    font-size: 20px;
-	color: #901100;
+  font-size: 20px;
+	/*color: #901100;*/
 }
