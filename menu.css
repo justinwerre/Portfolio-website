@@ -48,14 +48,6 @@ li {
     height: 30px;
 }
 
-h1 {
-  /*color: 718C37;*/
-}
-
-h2 {
-	/*color: #568F84;*/
-}
-
 #left_col {
     float: left;
 }
@@ -93,4 +85,8 @@ h2 {
 .menu_hedder {
   font-size: 20px;
 	/*color: #901100;*/
+}
+
+.normal{
+	height: auto;
 }
